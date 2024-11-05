@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
-	<ExternalDataProcessor uuid="50c0c3e5-ab4f-45fb-b271-8522be4e5f9e">
+	<ExternalDataProcessor uuid="de3bbf0b-d311-4014-8677-d0000d3b88c9">
 		<InternalInfo>
 			<xr:ContainedObject>
 				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
-				<xr:ObjectId>f2d3c5f7-c043-444d-a6e3-eeee89ffbc64</xr:ObjectId>
+				<xr:ObjectId>daab3104-4282-4d35-9b11-ec5b1b51cc29</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:GeneratedType name="ExternalDataProcessorObject.БухгалтерияДляБеларуси21_ВыгрузкаSpot2D" category="Object">
-				<xr:TypeId>e0ed8964-480f-4466-81bb-3dcd204161c6</xr:TypeId>
-				<xr:ValueId>bd0320af-3f49-4383-bafe-d6e63a177545</xr:ValueId>
+				<xr:TypeId>132686ef-0726-45f4-b326-59db61e80dc2</xr:TypeId>
+				<xr:ValueId>f0d01331-9680-412f-9e7a-ec9c564ec91b</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -19,7 +19,7 @@
 					<v8:content>Выгрузка из Бухгалтерия для Беларуси, редакция 2 в Pradata:Spot2D</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment>20240917.01</Comment>
+			<Comment>241105.01</Comment>
 			<DefaultForm>ExternalDataProcessor.БухгалтерияДляБеларуси21_ВыгрузкаSpot2D.Form.Форма</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>

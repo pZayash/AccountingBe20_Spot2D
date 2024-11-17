@@ -19,7 +19,7 @@
 					<v8:content>Выгрузка из Бухгалтерия для Беларуси, редакция 2 в Pradata:Spot2D</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment>241106.02</Comment>
+			<Comment>241117.01</Comment>
 			<DefaultForm>ExternalDataProcessor.БухгалтерияДляБеларуси21_ВыгрузкаSpot2D.Form.Форма</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>

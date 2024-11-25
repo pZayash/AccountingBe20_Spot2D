@@ -348,6 +348,11 @@
 								<CommandName>Form.Command.СоздатьСодержимоеФайлов</CommandName>
 								<ExtendedTooltip name="ОчередьСоздатьСодержимоеФайловРасширеннаяПодсказка" id="126"/>
 							</Button>
+							<Button name="ОчередьСоздатьСодержимоеФайловКакРегламентноеЗадание" id="145">
+								<Type>CommandBarButton</Type>
+								<CommandName>Form.Command.СоздатьСодержимоеФайловКакРегламентноеЗадание</CommandName>
+								<ExtendedTooltip name="ОчередьСоздатьСодержимоеФайловКакРегламентноеЗаданиеРасширеннаяПодсказка" id="146"/>
+							</Button>
 							<Button name="ОчередьСохранитьФайлыВАрхив" id="132">
 								<Type>CommandBarButton</Type>
 								<CommandName>Form.Command.СохранитьФайлыВАрхив</CommandName>
@@ -555,7 +560,7 @@
 			<ToolTip>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Период минус45 дней</v8:content>
+					<v8:content>Дата окончания -45 дней</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ПериодМинус45Дней</Action>
@@ -570,10 +575,30 @@
 			<ToolTip>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Период минус45 дней</v8:content>
+					<v8:content>Дата начала +45 дней</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ПериодПлюс45Дней</Action>
+		</Command>
+		<Command name="СоздатьСодержимоеФайловКакРегламентноеЗадание" id="8">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Создать содержимое файлов как регламентное задание</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Создать содержимое файлов как регламентное задание</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Picture>
+				<xr:Ref>StdPicture.AppearanceExclamationMarkIcon</xr:Ref>
+				<xr:LoadTransparent>true</xr:LoadTransparent>
+			</Picture>
+			<Action>СоздатьСодержимоеФайловКакРегламентноеЗадание</Action>
+			<Representation>Picture</Representation>
 		</Command>
 	</Commands>
 </Form>
